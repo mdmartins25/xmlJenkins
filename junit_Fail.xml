@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites><testsuite errors="0" failures="1" name="SystemTest" skipped="0" tests="1" time="0"><testcase name="StartID_BF0"><failure message="Last detected: Stopped&#10;AssertionError: Expected State: Wait for Fluids&#10;Occurred at line 20 (step 12) in SystemTest\StartID_BF0.txt&#10; Monitor   |Read  |ID_BF0-AB.BF0-AS01|Wait up to  |State                                                |3      |EQUAL    |Wait for Fluids&#10;" /></testcase></testsuite></testsuites>
